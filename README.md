@@ -1,10 +1,4 @@
 <h2>Me chamo Pedro Henrique, tenho 18 anos e atualmente estudo no IFPR o curso de Analise e Desenvolvimento de Sistemas</h2>
-
- <div align="center" style="display-flex">
- 
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=Driinho&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-
- </div>
  
  <p></p>
  <p></p>
