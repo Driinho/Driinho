@@ -1,5 +1,9 @@
+<h1 align="center">Olá 👋, Me chamo Pedro Nascimento</h1>
+<h3 align="center">Amante de tecnologia</h3>
 
-<h2>Me chamo Pedro Henrique, tenho 18 anos e atualmente estudo no IFPR o curso de Analise e Desenvolvimento de Sistemas</h2>
+- 🌱 Estou atualmente estudano **React e NodeJs**
+
+- 📫 Pode me encontrar em **pedro.nascimento.henrique2003@gmail.com**
 
 <div align="center" style="display-flex">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=Driinho&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
