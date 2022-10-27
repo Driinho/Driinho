@@ -2,7 +2,7 @@
 
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-- 🌱 Estou atualmente estudano **React e NodeJs**
+- 🌱 Estou atualmente estudando **React e NodeJs**
 
 - 📫 Pode me encontrar em **pedro.nascimento.henrique2003@gmail.com**
 
