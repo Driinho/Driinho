@@ -2,9 +2,11 @@
 
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-- 🌱 Estou atualmente estudando **React e NodeJs**
+<li> 🌱 Estou atualmente estudando <strong>React e NodeJs</strong> </li>
 
-- 📫 Pode me encontrar em **pedro.nascimento.henrique2003@gmail.com**
+<li> 📫 Pode me encontrar em <strong>pedro.nascimento.henrique2003@gmail.com</strong></li>
+
+<p></p>
 
 <div align="center" style="display-flex">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=Driinho&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
