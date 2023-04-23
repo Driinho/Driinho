@@ -2,7 +2,7 @@
 
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-<li> 🌱 Estou atualmente estudando <strong>Java e Spring</strong> </li>
+<li> 🌱 Estou atualmente estudando <strong>Python e Flask</strong> </li>
 <li> 📫 Pode me encontrar em <strong>pedro.nascimento.henrique2003@gmail.com</strong></li>
 
 <p></p>
@@ -25,6 +25,8 @@
    <img align="center" alt ="pedro-c" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" alt="pedro-java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img align="center" alt="pedro-spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+   <img align="center" alt ="pedro-python" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img align="center" alt ="pedro-flask" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
 </div>
 
 ![Snake animation](https://github.com/Driinho/Driinho/blob/output/github-contribution-grid-snake.svg)
